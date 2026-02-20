@@ -67,8 +67,7 @@ Official safety and confidential reporting portal for female students of Rameshw
 ## ⚖️ License
 This project is licensed under the MIT License.
 
-- *Note: This access key can be updated through the "Settings" icon within the Admin Dashboard.*
 
-## ⚖️ License
-This project is licensed under the MIT License.
+
+
 
