@@ -6,7 +6,6 @@
 - Secure User Authentication: Implement a secure authentication system specifically for college students, potentially integrating with college IDs for verification.
 - Private Issue Tracking: Enable reporters to track the status of their submitted issues through a private and secure channel.
 - Admin Dashboards: Provide designated support staff with administrative dashboards to manage and address reported issues efficiently.
-- College Email verification: Verification gate for female students only. Checks a checkbox and college email input field (must end with @college.ac.in or similar domain). The email is NOT stored, only the format is validated.
 - Report Submission Form: Form to enter details of the harassment incident.  Includes a dropdown for harassment type, a free text description, platform, date, and optional file upload. Generates a unique tracking code if selected.
 - Status Check Page: Allow users to enter their unique tracking code, and view the status of their report.
 - Admin Report Table: Displays a table of all reports, with columns for ID, Timestamp, Type, Description snippet, Platform, Status, Tracking Code if any.
